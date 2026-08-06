@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Who authored the paper 'SafeRAG: A Large-Language-Model-Based Multistage Retrieval-Augmented Framework for Oil and Gas Safety Report Generation'?",
+    "answer": "The paper **\"SafeRAG: A Large-Language-Model-Based Multistage Retrieval-Augmented Framework for Oil and Gas Safety Report Generation\"** was authored by **Qianwen Cao, Chiyu Zhang, Junxiong Ning, and Gongru Li**."
+  },
+  {
+    "question": "What is the main contribution described in the paper 'JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Development and Technical Validation Study'?",
+    "answer": "The main contribution of the paper is the development and technical validation of **JADE-Plus**, a novel **multimodal, agent-controlled retrieval-augmented generation (RAG) framework** designed for **diagnostic decision support in jawbone lesion assessment**.\n\nSpecifically, the paper's key contributions include:\n\n1. **A new multimodal RAG architecture** that integrates a **vision-language model (VLM)** for panoramic radiograph analysis, a **knowledge-grounded RAG module**, and an **agentic verification loop** for diagnostic fusion and re-ranking \u2014 all implemented as a cloud-based, tablet-optimized system.\n\n2. **Demonstration of superior diagnostic performance**: JADE-Plus achieved **90% Top-1 accuracy** and **100% Top-3 accuracy** (no missed diagnoses) on 40 representative jawbone lesion cases, significantly outperforming baseline systems (JADE, GPT-5.4, GPT-5.4 VLM, and ORAD).\n\n3. **Ablation evidence** showing that the **agentic verification stage** alone improved Top-1 and Top-3 accuracy by **15 and 8 percentage points**, respectively, highlighting the value of agentic control in multimodal diagnostic workflows.\n\n4. **High reproducibility** (mean Jaccard similarity of 0.97) with a reasonable response time (~33 seconds per case), supporting the feasibility of multimodal agentic RAG frameworks for clinical diagnostic support in oral and maxillofacial radiology."
+  },
+  {
+    "question": "When was the paper 'Retrieval-Augmented Large-Language-Model-Based Time-Series Forecasting for Cross-Market Equity Analysis' published?",
+    "answer": "I'm sorry, but the indexed scholarly paper corpus does not include a specific publication date for the paper **\"Retrieval-Augmented Large-Language-Model-Based Time-Series Forecasting for Cross-Market Equity Analysis\"** by Novanto Yudistira and Yanuar Putra Kharisma Adhiyasa. The paper is identified by the Research Square preprint ID `10.21203/rs.3.rs-10178277/v1`, but the date metadata is not available in the current corpus."
+  }
+]
