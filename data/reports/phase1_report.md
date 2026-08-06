@@ -4,11 +4,11 @@
 
 | Field | Value |
 | --- | --- |
-| `source_api` | Crossref REST API |
-| `source_query` | agentic retrieval augmented generation large language model |
-| `source_filter` | from-pub-date:2026-02-07,has-abstract:true |
-| `raw_records` | 24 |
-| `clean_records` | 24 |
+| `mode` | loaded_from_snapshot |
+| `source` | Crossref REST API |
+| `raw_records` | crossref_records.json |
+| `record_count` | 24 |
+| `fetched_at` | n/a (snapshot) |
 
 ## Evaluation metrics
 
@@ -24,7 +24,7 @@ Ragas: `{'skipped': 'Set RUN_RAGAS=1 to enable the slower Ragas pass.'}`
 
 ## Data quality
 
-Overall passed: **yes** (`baseline`, 24 rows, generated 2026-08-06T03:45:18.998760+00:00)
+Overall passed: **yes** (`baseline`, 24 rows, generated 2026-08-06T04:30:37.882393+00:00)
 
 | Check | Passed | Detail |
 | --- | --- | --- |

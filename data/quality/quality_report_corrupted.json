@@ -1,11 +1,11 @@
 {
-  "report_name": "baseline",
-  "generated_at": "2026-08-06T04:30:37.882393+00:00",
-  "row_count": 24,
-  "passed": true,
+  "report_name": "corrupted",
+  "generated_at": "2026-08-06T04:43:00.820981+00:00",
+  "row_count": 21,
+  "passed": false,
   "checks": {
     "row_count": {
-      "row_count": 24,
+      "row_count": 21,
       "passed": true
     },
     "paper_id": {
@@ -18,10 +18,10 @@
       "passed": true
     },
     "summary": {
-      "missing_count": 0,
+      "missing_count": 1,
       "short_count": 0,
       "min_chars": 40,
-      "passed": true
+      "passed": false
     },
     "duplicate_rows": {
       "subset": [
@@ -33,9 +33,9 @@
     },
     "freshness": {
       "threshold_days": 180,
-      "stale_count": 0,
+      "stale_count": 2,
       "unknown_count": 0,
-      "passed": true
+      "passed": false
     }
   }
 }
