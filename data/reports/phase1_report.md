@@ -24,7 +24,7 @@ Ragas: `{'skipped': 'Set RUN_RAGAS=1 to enable the slower Ragas pass.'}`
 
 ## Data quality
 
-Overall passed: **yes** (`baseline`, 24 rows, generated 2026-08-06T04:30:37.882393+00:00)
+Overall passed: **yes** (`baseline`, 24 rows, generated 2026-08-06T04:53:40.901640+00:00)
 
 | Check | Passed | Detail |
 | --- | --- | --- |
